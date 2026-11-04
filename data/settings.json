@@ -1,0 +1,6 @@
+{
+  "job_id": "j38",
+  "duration": 60,
+  "tolerance_ms": 500,
+  "global_hook": true
+}
